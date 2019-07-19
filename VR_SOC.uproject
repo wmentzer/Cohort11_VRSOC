@@ -1,33 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.22",
-	"Category": "",
-	"Description": "",
-	"Enterprise": true,
-	"Modules": [
-		{
-			"Name": "VR_SOC",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"HeadMountedDisplay",
-				"UMG"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "WebBrowserWidget",
-			"Enabled": true
-		},
-		{
-			"Name": "OculusAudio",
-			"Enabled": true
-		}
-	],
-	"TargetPlatforms": [
-		"WindowsNoEditor",
-		"Android"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:844ed36e060b1c67f918ee6524ffe13f7e064e0d11d602f49fd2c713b767236f
+size 515
